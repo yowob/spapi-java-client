@@ -14,7 +14,6 @@
   If you do not want support RDT, set RDT_ENBALE = false.
 
 5. ReportsApi must run by JDK11, otherwise it throw error when decrypt report file.
-6. We provide sp-api software development and consulting services.  email: yowobcn@163.com
 
 
 
@@ -35,5 +34,4 @@
   如果你想关闭RDT, 则 RDT_ENBALE = false 即可
 
 5. 使用ReportsApi, 需要基于JDK11运行, 否则在解密下载报表文件时会报错
-6. 我们提供 sp-api 的软件开发和咨询服务. email: yowobcn@163.com
 
